@@ -1,4 +1,4 @@
-# Playground_PSD
+# Playground_PSD (Use Sass and HTML) 
 Remake via file PSD have responsive for Ipad pro, ipad, iphone 6/7+
 # Responsive for Ipad Pro (width: 1024px)
 ![image](https://user-images.githubusercontent.com/71366193/156174915-90747196-9827-478e-b657-69f78e3e84ab.png)
